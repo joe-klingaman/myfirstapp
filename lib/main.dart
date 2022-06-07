@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:myfirstapp/theme.dart';
 import 'firebase_options.dart';
 // Import the firebase_core plugin
 import 'package:firebase_core/firebase_core.dart';
@@ -40,6 +41,7 @@ class _AppState extends State<App> {
         if (snapshot.connectionState == ConnectionState.done) {
           return MaterialApp(
             routes: appRoutes,
+            theme: appTheme,
           );
         }
 
