@@ -15,3 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # myfirstapp
+
+- Apple bundle id = com.theanimaltraders.myfirstapp
+- android package name = com.theanimaltraders.myfirstapp

@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "841144199743",
+    "project_id": "myfirstapp-1eea4",
+    "storage_bucket": "myfirstapp-1eea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841144199743:android:3db9ad2d0642264bd2268a",
+        "android_client_info": {
+          "package_name": "com.theanimaltraders.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841144199743-lsqig52q0b9ao5n83vuap43m0847d0vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theanimaltraders.myfirstapp",
+            "certificate_hash": "692d17ae969f7fabb2e5ce1fbc0987e268a82101"
+          }
+        },
+        {
+          "client_id": "841144199743-utq9uf0o7fpca274amse7r9719l17td6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2qIA0jN-b0wCBn2Y0aDjCLlj-W8tVx6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841144199743-utq9uf0o7fpca274amse7r9719l17td6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841144199743-ep86lvmmbckjo7oer64r5lrqt5mhemsq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theanimaltraders.myfirstapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841144199743:android:0249a72f3874d8eed2268a",
+        "android_client_info": {
+          "package_name": "io.fireship.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841144199743-utq9uf0o7fpca274amse7r9719l17td6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2qIA0jN-b0wCBn2Y0aDjCLlj-W8tVx6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841144199743-utq9uf0o7fpca274amse7r9719l17td6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841144199743-ep86lvmmbckjo7oer64r5lrqt5mhemsq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theanimaltraders.myfirstapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
